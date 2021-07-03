@@ -1,0 +1,11 @@
+{
+  "name": "example-api-factory",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "express": "^4.17.1",
+    "knex": "^0.95.6",
+    "nodemon": "^2.0.9"
+  }
+}
